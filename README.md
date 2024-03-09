@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">DPlayer</h1>
 
-## This library is only for backup purposes.
+## Important Notice
+
+This library is only for backup purposes，Suggest going to the original warehouse at [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer)
 
 > 🍭 Wow, such a lovely HTML5 danmaku video player
 
